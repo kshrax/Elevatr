@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.npm
+
+# Environment variables — NEVER commit these
+.env
+.env.local
+.env.production
+backend/.env
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# AWS SAM build artifacts
+backend/.aws-sam/
+backend/samconfig.toml
+
+# OS files
+.DS_Store
