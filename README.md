@@ -208,3 +208,6 @@ Database:
 
 Amazon DynamoDB → User Profiles + Deadlines
 
+PROJECT BY:
+   -Yash Pardeshi
+   -Shravani Kadu
