@@ -2,7 +2,7 @@
 
 An AI-powered platform that helps students discover and track **scholarships, fellowships, internships, and grants** using intelligent matching and personalized recommendations.
 
-**Live Demo:** d2kr25z71q8y4g.cloudfront.net
+**Live Demo:** [d2kr25z71q8y4g.cloudfront.net](d2kr25z71q8y4g.cloudfront.net)
 
 ---
 
